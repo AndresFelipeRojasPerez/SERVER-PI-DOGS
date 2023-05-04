@@ -1,5 +1,5 @@
 const {Dog} = require("../db");
-const temperaments = require("../models/temperaments");
+const temperaments = require("../models/Temperaments");
 
 const createDog = async ({
     image, 
